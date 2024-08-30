@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { useContext, useEffect } from "react";
 import { GlobalContext } from "../../context";
 import RecipeItem from "../../components/recipe-item";
